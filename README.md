@@ -2,7 +2,7 @@
 
 An example of using the Synergy/DE select classes to access ISAM data.
 
-![Screen Shot](https://github.com/SteveIves/SelectingData/ScreenShot.png)
+![Screen Shot](https://github.com/SteveIves/SelectingData/blob/master/ScreenShot.png)
 
 Requirements:
 
