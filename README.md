@@ -1,6 +1,6 @@
 # SelectingData
 
-An example of using the Synergy/DE select classes to access ISAM data.
+A Synergy .NET WPF application that demonstrates how to use the Synergy/DE select classes to access ISAM data.
 
 ![Screen Shot](https://github.com/SteveIves/SelectingData/blob/master/ScreenShot.png)
 
