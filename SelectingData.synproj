@@ -28,7 +28,7 @@
     <ResourceType>Icon</ResourceType>
     <ResourceName />
     <NoWin32Manifest />
-    <ProjEnvVars>DAT=$(SolutionDir)data;DATLOCAL=$(SolutionDir)data;DATREMOTE=SELECTDATA:@SIVESW8X64;</ProjEnvVars>
+    <ProjEnvVars>DAT=$(SolutionDir)data;DATLOCAL=$(SolutionDir)data;DATREMOTE=SELECTDATA:@SIVESW8X64</ProjEnvVars>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
